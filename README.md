@@ -1,2 +1,1 @@
-# wb
-WB Url Shortener - A Reliable Web 3 URL Shortener
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
